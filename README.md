@@ -8,7 +8,7 @@
 ![Beats](https://img.shields.io/badge/Beats-363636?style=for-the-badge&logo=rust&logoColor=white)
 ![Crawler](https://img.shields.io/badge/Crawler-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
-### Full-stack Development  
+### Full-stack Web Development  
 <span><img alt="React.js" src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=" />
 <img alt="Next.js" src="https://img.shields.io/static/v1?style=for-the-badge&message=NestJS&color=E0234E&logo=NestJS&logoColor=FFFFFF&label=" />
 <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/></span>
