@@ -20,7 +20,7 @@
 <img alt="Next.js" src="https://img.shields.io/static/v1?style=for-the-badge&message=NestJS&color=E0234E&logo=NestJS&logoColor=FFFFFF&label=" />
 <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/></span>
 
-<h2> &nbsp;PumbaPig413's Github Stats</h2>
+<h2> &nbsp;HappyDream's Github Stats</h2>
 <span align="left">
 
 ![HappyDream's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PumbaPig413&repo=github-readme-stats&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
